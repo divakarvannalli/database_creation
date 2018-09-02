@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>database/answercsv/answer11.csv</file>
+        <file>database/answercsv/answer12.csv</file>
+        <file>database/answercsv/answer21.csv</file>
+        <file>database/answercsv/answer22.csv</file>
+        <file>database/answercsv/answer31.csv</file>
+        <file>database/answercsv/answer32.csv</file>
+        <file>database/answercsv/answer41.csv</file>
+        <file>database/answercsv/answer42.csv</file>
+        <file>database/question/q11.csv</file>
+        <file>database/question/q12.csv</file>
+        <file>database/question/q21.csv</file>
+        <file>database/question/q22.csv</file>
+        <file>database/question/q31.csv</file>
+        <file>database/question/q32.csv</file>
+        <file>database/question/q41.csv</file>
+        <file>database/question/q42.csv</file>
+        <file>database/applicationdb</file>
+        <file>database/applicationdb2</file>
+        <file>database/applicationDb</file>
+        <file>database/resp11.csv</file>
+        <file>main.qml</file>
+    </qresource>
+</RCC>
